@@ -1,6 +1,6 @@
 %define		plugin	cycle2
 %define		build	20131003
-%define		rel		1
+%define		rel		2
 Summary:	Cycle2 - 2nd Generation Cycling!
 Name:		jquery-%{plugin}
 Version:	1.0.0
